@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "85913817959",
+    "firebase_url": "https://hospital-locator-india-default-rtdb.firebaseio.com",
+    "project_id": "hospital-locator-india",
+    "storage_bucket": "hospital-locator-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85913817959:android:bd559078ea1dc31759d5c2",
+        "android_client_info": {
+          "package_name": "com.hospital.loc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR4FCmsLv2N5tgdBoghHxHeKVTf8cSX-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
